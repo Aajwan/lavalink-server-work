@@ -10,7 +10,7 @@
 <h1 align="center">Lavalink Server</h1>
 
 <p align="center">
-    <a href="https://discord.gg/AhUJa2kdAr">Support Server</a>
+    <a href="https://discord.gg/nvcznzhkTF">Support Server</a>
     ·
     <a href="https://github.com/LucasB25/lavalink-server/issues">Report Bug & Request Feature</a>
 </p>
@@ -211,6 +211,13 @@
     ### https://github.com/topi314/LavaSrc#vk-music
     - userToken: "your user token"
 
+- Tidal: 
+    ### https://github.com/topi314/LavaSrc#tidal
+    - token: "your tidal token"
+
+- Qobuz: 
+    ### https://github.com/topi314/LavaSrc#qobuz
+    - token: "your user oauth token"
 </details>
 
 ## ☕ Donate
@@ -237,4 +244,4 @@ Thanks to these wonderful people:
 [license-shield]: https://img.shields.io/github/license/LucasB25/lavalink-server.svg?style=for-the-badge
 [license-url]: https://github.com/LucasB25/lavalink-server/blob/mains/LICENSE
 [support-shield]: https://img.shields.io/discord/942117923001098260.svg?style=for-the-badge&logo=discord&colorB=7289DA
-[support-server]: https://discord.gg/AhUJa2kdAr
+[support-server]: https://discord.gg/nvcznzhkTF
